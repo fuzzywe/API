@@ -1,5 +1,6 @@
 ![What Is JSON _ Explained 2-16 screenshot](https://github.com/user-attachments/assets/4b79e7b5-30dc-4433-91ab-bbb9cafc852b)
 
+![What Is JSON _ Explained 2-51 screenshot](https://github.com/user-attachments/assets/c5c59dad-adbc-4619-bdd9-e71d85fc8925)
 
 
 
