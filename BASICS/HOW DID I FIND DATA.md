@@ -1,3 +1,8 @@
+For real-time, frequently updated data: APIs and websockets.
+For static or historical data: Open data portals, Kaggle, and downloadable datasets.
+For complex analysis: Cloud platforms or SQL databases.
+For niche or proprietary data: Consider scraping with proper permissions or purchasing from data marketplaces.
+
 Finding data can be approached in various ways depending on what type of data you're looking for and your specific needs. Here are some general strategies and resources for finding data:
 
 ### 1. **Public Datasets**
